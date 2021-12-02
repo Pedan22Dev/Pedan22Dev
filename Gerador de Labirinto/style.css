@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    color: green;
+    background-color: #000;
+}
+
+canvas {
+    margin-top: 4vh;
+    border: green solid 1px;
+}
+
+div {
+    margin-right: 2vh;
+}
+
+p {
+    margin-top: 3vh;
+
+}
+p span {
+    text-align-last: break-word;
+}
